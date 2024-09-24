@@ -1,0 +1,4 @@
+{
+  "https://www.mydomain.com/remote-video.mp4": { "resolved": "https://www.web.com/mydomain?brand=mydomain&channelID=P99C101S653N0B2A16D132E0000V147", "integrity": "sha512-mMH4WxoOOyyAk1umWN4f6IGS/Z3sqzXHv77arflTklcJKGmCHgVRpbT21aN0+ZWSX1y04YYSds3oUdJ7CpfUuQ==", "contentType": "text/html;charset=utf-8" },
+  "version": 1
+}
